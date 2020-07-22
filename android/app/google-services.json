@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835174825954",
+    "firebase_url": "https://bubble-chat-68778.firebaseio.com",
+    "project_id": "bubble-chat-68778",
+    "storage_bucket": "bubble-chat-68778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835174825954:android:d6aa8dcb02bb7e485943bb",
+        "android_client_info": {
+          "package_name": "com.samz.bubble_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835174825954-jl2672mdsdav0v4tke6l7o76t0hsak7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmn__Oyyyl-7sDaJQaRLEjqp-MHcHGPzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835174825954-jl2672mdsdav0v4tke6l7o76t0hsak7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
